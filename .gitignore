@@ -1,0 +1,50 @@
+# Ігнорування файлів C/C++
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.exp
+*.class
+*.jar
+*.ncb
+*.sdf
+*.opendb
+*.tlog
+
+# Ігнорування директорій C/C++
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Ігнорування файлів Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Віртуальне середовище Python
+venv/
+.env/
+*.venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# IDE та редактори
+.vscode/
+.idea/
+*.iml
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
