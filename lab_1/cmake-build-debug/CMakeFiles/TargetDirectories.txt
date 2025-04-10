@@ -1,3 +1,3 @@
-/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug/CMakeFiles/lab_1.dir
-/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug/CMakeFiles/lab_1.dir
+/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

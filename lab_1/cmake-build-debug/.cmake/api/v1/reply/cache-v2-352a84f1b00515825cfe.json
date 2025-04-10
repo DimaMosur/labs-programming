@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug"
+			"value" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1"
+			"value" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug"
+			"value" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug"
 		},
 		{
 			"name" : "lab_1_IS_TOP_LEVEL",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1"
+			"value" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1"
 		}
 	],
 	"kind" : "cache",

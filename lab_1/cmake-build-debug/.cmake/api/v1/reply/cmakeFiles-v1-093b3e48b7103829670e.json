@@ -425,8 +425,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1/cmake-build-debug",
-		"source" : "/home/dmytro-linux/projects/labs/c_cpp/lab_1"
+		"build" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1/cmake-build-debug",
+		"source" : "/home/dmytro-linux/projects/labs/labs_programming/lab_1"
 	},
 	"version" : 
 	{

@@ -1,18 +1,18 @@
-def max_hamsters(S, C, hamsters):
-    def can_feed(count):
+def max_hamsters(daily_food, total_hamsters, hamster_data):
+    def can_feed(selected_count):
         food_needed = []
-        for i in range(count):
-            H, G = hamsters[i]
-            food_needed.append(H + G * (count - 1))
+        for i in range(selected_count):
+            base_food, greed = hamster_data[i]
+            food_needed.append(base_food + greed * (selected_count - 1))
         food_needed.sort()
-        return sum(food_needed) <= S
+        return sum(food_needed) <= daily_food
 
-    hamsters.sort(key=lambda x: x[0] + x[1] * (C - 1))
-    left, right = 0, C
-    while left < right:
-        mid = (left + right + 1) // 2
-        if can_feed(mid):
-            left = mid
+    hamster_data.sort(key=lambda x: x[0] + x[1] * (total_hamsters - 1))
+    min_hamsters, max_hamsters = 0, total_hamsters
+    while min_hamsters < max_hamsters:
+        mid_hamsters = (min_hamsters + max_hamsters + 1) // 2
+        if can_feed(mid_hamsters):
+            min_hamsters = mid_hamsters
         else:
-            right = mid - 1
-    return left
+            max_hamsters = mid_hamsters - 1
+    return min_hamsters
